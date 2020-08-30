@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 :mortar_board: Curso Ciẽncia da Computação pela Universidade Federal de Sergipe (UFS)
 
-:office: Trabalho como Desenvolvedor Web Java (Júnior/Estagiário) no [STI/UFS](http://sti.ufs.br/pagina/20306) e  Desenvolver Back-End NodeJs (Júnior/Voluntário) na [Softeam](https://softeam.com.br/https://softeam.com.br/)
+:office: Trabalho como Desenvolvedor Web Java (Júnior/Estagiário) no [STI/UFS](http://sti.ufs.br/pagina/20306) e  Desenvolvedor Back-End NodeJs (Júnior/Voluntário) na [Softeam](https://softeam.com.br/https://softeam.com.br/)
 
 :hammer: Techs: Java e NodeJS
 
