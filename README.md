@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 :mortar_board: Curso Ciẽncia da Computação pela Universidade Federal de Sergipe (UFS)
 
-:office: Trabalho como Desenvolvedor Web Java (Júnior/Estagiário) no [STI/UFS](http://sti.ufs.br/pagina/20306) e  Desenvolver Back-End NodeJs (Júnior/Voluntário)[Softeam](https://softeam.com.br/https://softeam.com.br/)
+:office: Trabalho como Desenvolvedor Web Java (Júnior/Estagiário) no [STI/UFS](http://sti.ufs.br/pagina/20306) e  Desenvolver Back-End NodeJs (Júnior/Voluntário) na [Softeam](https://softeam.com.br/https://softeam.com.br/)
 
 :hammer: Techs: Java e NodeJS
 
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 :rocket: Sempre estudando para ser um Dev melhor e alcançar o próximo nível.
 
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=wendhio&show_icons=true&theme=dracula)
+![Wendhio's github stats](https://github-readme-stats.vercel.app/api?username=wendhio&show_icons=true&theme=dracula)
 
-![Bruno's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendhio&layout=compact&theme=dracula&hide=java)
+![Wendhio's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendhio&layout=compact&theme=dracula)
